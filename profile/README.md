@@ -1,13 +1,13 @@
 ## Projetos:
 
-- Psicólogos - Em desenvolvimento ![](https://geps.dev/progress/30)
+- Psicólogos - Em desenvolvimento
 
-- Nutriocionistas - Em breve ![](https://geps.dev/progress/10)
-- Restaurantes - Em breve ![](https://geps.dev/progress/10)
-- Idiomas - Em breve ![](https://geps.dev/progress/10)
-- Festas - Em breve ![](https://geps.dev/progress/20)
+- Nutriocionistas - Em breve
+- Restaurantes - Em breve
+- Idiomas - Em breve
+- Festas - Em breve
 
-- Treegame - Em breve ![](https://geps.dev/progress/60)
+- Treegame - Em breve
 
 - [`Monow`](https://monow.cc/) - Em manutenção
 - [`Renowation`](https://renowation.be/) - Em manutenção
