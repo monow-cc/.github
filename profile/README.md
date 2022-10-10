@@ -19,6 +19,7 @@
 - [`C#`](https://learn.microsoft.com/pt-br/dotnet/csharp)
 
 - [`React`](https://reactjs.org/docs/getting-started.html)
+- [`Vite`](https://vitejs.dev)
 - [`React Native`](https://reactnative.dev/docs/getting-started)
 - [`Expo`](https://docs.expo.dev)
 - [`Unity`](https://docs.unity3d.com/Manual/index.html)
