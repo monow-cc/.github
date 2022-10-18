@@ -9,8 +9,8 @@
 
 - Treegame - Em breve
 
-- [`Monow`](https://monow.cc/) - Em manutenção
-- [`Renowation`](https://renowation.be/) - Em manutenção
+- [`Monow`](https://monow.cc/)
+- [`Renowation`](https://renowation.be/)
 
 ## Tecnologias:
 
