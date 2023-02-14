@@ -1,6 +1,6 @@
 ## Projetos:
 
-- Psicólogos - [`Play Store`](https://play.google.com/store/apps/details?id=cc.monow.feels) - Em desenvolvimento 
+- Psicólogos - [`Beta`](https://play.google.com/store/apps/details?id=cc.monow.feels) 
 
 - Nutriocionistas - Em breve
 - Restaurantes - Em breve
