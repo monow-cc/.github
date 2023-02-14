@@ -1,8 +1,8 @@
 ## Projetos:
 
-- Feels - [`Beta`](https://play.google.com/store/apps/details?id=cc.monow.feels) 
-
-- Nutriocionistas - Em breve
+- Feels (Psicólogos) - [`Beta`](https://play.google.com/store/apps/details?id=cc.monow.feels) 
+- Fathin (Nutriocionistas) - Em breve
+- Agenday (Agendamento) - Em breve
 - Restaurantes - Em breve
 - Idiomas - Em breve
 - Festas - Em breve
