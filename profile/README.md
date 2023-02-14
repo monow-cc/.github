@@ -1,6 +1,6 @@
 ## Projetos:
 
-- Psicólogos - [`Beta`](https://play.google.com/store/apps/details?id=cc.monow.feels) 
+- Feels - [`Beta`](https://play.google.com/store/apps/details?id=cc.monow.feels) 
 
 - Nutriocionistas - Em breve
 - Restaurantes - Em breve
@@ -10,6 +10,7 @@
 - Treegame - Em breve
 
 - [`Monow`](https://monow.cc/)
+- [`Feels`](https://feels.monow.cc/)
 - [`Renowation`](https://renowation.be/)
 
 ## Tecnologias:
