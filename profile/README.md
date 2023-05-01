@@ -1,7 +1,8 @@
 ## Projetos:
 
-- Corcel (Sistema de gestão) - [`Pré-lançamento`](https://corcel.monow.cc)
-- Feels (Psicólogos) - [`Beta`](https://play.google.com/store/apps/details?id=cc.monow.feels) 
+- Corcel (Sistema de gestão) - [`Lançamento`](https://corcel.monow.cc)
+- MiaEconomia (Promoções) - [`Em desenvolvimento`]
+- Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
 
 - Fathin (Nutriocionistas) - Em breve
 - Agenday (Agendamento) - Em breve
@@ -14,9 +15,12 @@
 ## Sites:
 
 - [`Monow`](https://monow.cc)
-- [`Feels`](https://feels.monow.cc)
-- [`Studio`](https://studio.monow.cc)
+- [`Agência`](https://monow.com.br)
+- [`Medium`](https://medium.com/@monow.cc)
+- [`Play store`](https://play.google.com/store/apps/dev?id=7597092309773950275)
 
+- [`Feels`](https://feels.monow.cc)
+- [`Corcel`](https://corcel.monow.cc)
 - [`Renowation`](https://renowation.be)
 
 ## Tecnologias:
@@ -57,8 +61,3 @@
 ## Faça parte:
 
 Mande um email contato@monow.cc
-
-## Links:
-
-- [`Medium`](https://medium.com/@monow.cc)
-- [`Play store`](https://play.google.com/store/apps/dev?id=7597092309773950275)
