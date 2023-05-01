@@ -1,7 +1,7 @@
 ## Projetos:
 
 - Corcel (Sistema de gestão) - [`Lançamento`](https://corcel.monow.cc)
-- MiaEconomia (Promoções) - [`Em desenvolvimento`]
+- MiaEconomia (Promoções) - Em desenvolvimento
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
 
 - Fathin (Nutriocionistas) - Em breve
