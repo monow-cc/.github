@@ -1,15 +1,18 @@
 ## Projetos:
 
 - Corcel (Sistema de gestão) - [`Lançamento`](https://corcel.monow.cc)
-- MiaEconomia (Promoções) - Em desenvolvimento
+
+- Restaurantes - Em Desenvolvimento
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
 
+- Delivery - Em breve
+- MiaEconomia (Promoções) - Em breve
 - Fathin (Nutriocionistas) - Em breve
 - Agenday (Agendamento) - Em breve
-- Restaurantes - Em breve
-- Idiomas - Em breve
+- Ecommerce - Em breve
+- Serviços gerais - Em breve
 - Festas - Em breve
-
+- Idiomas - Em breve
 - Treegame - Em breve
 
 ## Sites:
