@@ -1,10 +1,10 @@
 ## Projetos:
 
 - Corcel (Sistema de gestão) - [`Lançamento`](https://corcel.monow.cc)
-
-- Restaurantes - Em Desenvolvimento
+- Renowation (Renovação de casas) - [`Renowation`](https://renowation.be)
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
-
+- Restaurantes - Em Desenvolvimento
+  
 - Delivery - Em breve
 - MiaEconomia (Promoções) - Em breve
 - Fathin (Nutriocionistas) - Em breve
@@ -15,16 +15,15 @@
 - Idiomas - Em breve
 - Treegame - Em breve
 
+##Patrocínio
+
+- Pontonet Sistemas - [`Pontonet Sistemas`](https://pontonetsistemas.com/)
+
 ## Sites:
 
-- [`Monow`](https://monow.cc)
-- [`Agência`](https://monow.com.br)
+- [`Monow`](https://monow.com.br)
 - [`Medium`](https://medium.com/@monow.cc)
 - [`Play store`](https://play.google.com/store/apps/dev?id=7597092309773950275)
-
-- [`Feels`](https://feels.monow.cc)
-- [`Corcel`](https://corcel.monow.cc)
-- [`Renowation`](https://renowation.be)
 
 ## Tecnologias:
 
