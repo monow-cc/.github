@@ -4,7 +4,7 @@
 - Renowation (Renovação de casas) - [`Renowation`](https://renowation.be)
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
 - Restaurantes - Em Desenvolvimento
-  
+
 - Delivery - Em breve
 - MiaEconomia (Promoções) - Em breve
 - Fathin (Nutriocionistas) - Em breve
@@ -15,9 +15,9 @@
 - Idiomas - Em breve
 - Treegame - Em breve
 
-##Patrocínio
+## Patrocínio:
 
-- Pontonet Sistemas - [`Pontonet Sistemas`](https://pontonetsistemas.com/)
+- [`Pontonet Sistemas`](https://pontonetsistemas.com/)
 
 ## Sites:
 
