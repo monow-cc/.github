@@ -3,17 +3,18 @@
 - Corcel (Sistema de gestão) - [`Lançamento`](https://corcel.monow.cc)
 - Renowation (Renovação de casas) - [`Renowation`](https://renowation.be)
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
-- Restaurantes - Em Desenvolvimento
+- Chefs (Restaurantes) - Em Desenvolvimento
 
-- Delivery - Em breve
 - MiaEconomia (Promoções) - Em breve
 - Fathin (Nutriocionistas) - Em breve
 - Agenday (Agendamento) - Em breve
 - Ecommerce - Em breve
+- Delivery - Em breve
+- Atendimento - Em breve
 - Serviços gerais - Em breve
 - Festas - Em breve
 - Idiomas - Em breve
-- Treegame - Em breve
+- Cozinheiros - Em breve
 
 ## Patrocínio:
 
