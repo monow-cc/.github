@@ -15,12 +15,13 @@
 - Festas - Em breve
 - Idiomas - Em breve
 - Cozinheiros - Em breve
+- Construções - Em breve
 
 ## Patrocínio:
 
 - [`Pontonet Sistemas`](https://pontonetsistemas.com/)
 
-## Sites:
+## Links:
 
 - [`Monow`](https://monow.com.br)
 - [`Medium`](https://medium.com/@monow.cc)
@@ -62,5 +63,4 @@
 - [`Github`](https://github.com)
 
 ## Faça parte:
-
-Mande um email contato@monow.cc
+contato@monow.cc
