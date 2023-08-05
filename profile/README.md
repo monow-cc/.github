@@ -3,7 +3,7 @@
 - Corcel (Sistema de gestão) - [`Concluído`](https://corcel.monow.cc)
 - Renowation (Renovação de casas) - [`Concluído`](https://renowation.be)
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
-- PartU (Festas) - [`Em desenvolvimento`]
+- PartU (Festas) - Em desenvolvimento
 - Chefs (Restaurantes) - Em Desenvolvimento
 
 Em breve:
