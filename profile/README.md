@@ -62,7 +62,7 @@ Em breve:
 
 - [`Discord`](https://discord.com)
 - [`Medium`](https://medium.com)
-- [`Github`](https://github.com)
+- [`Git`](https://git-scm.com)
 
 ## Faça parte:
 contato@monow.cc
