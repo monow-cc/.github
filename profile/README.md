@@ -3,6 +3,7 @@
 - Corcel (Sistema de gestão) - [`Concluído`](https://corcel.monow.cc)
 - Renowation (Renovação de casas) - [`Concluído`](https://renowation.be)
 - Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
+- PartU (Festas) - [`Em desenvolvimento`]
 - Chefs (Restaurantes) - Em Desenvolvimento
 
 Em breve:
@@ -13,7 +14,6 @@ Em breve:
 - Delivery
 - Atendimento
 - Serviços gerais
-- Festas
 - Idiomas
 - Cozinheiros
 - Construções
@@ -33,14 +33,15 @@ Em breve:
 - [`Javascript`](https://www.w3schools.com/js/js_htmldom_document.asp)
 - [`Typescript`](https://www.typescriptlang.org/docs)
 - [`C#`](https://learn.microsoft.com/pt-br/dotnet/csharp)
+- [`NodeJs`](https://nodejs.org/en/docs)
 
 - [`React`](https://reactjs.org/docs/getting-started.html)
 - [`Vite`](https://vitejs.dev)
 - [`React Native`](https://reactnative.dev/docs/getting-started)
 - [`Expo`](https://docs.expo.dev)
+- [`Flutter`]([https://flutter.dev/)
 - [`Gulp`](https://gulpjs.com/docs/en/getting-started/quick-start)
 - [`Unity`](https://docs.unity3d.com/Manual/index.html)
-- [`NodeJs`](https://nodejs.org/en/docs)
 
 - [`Jest`](https://jestjs.io/docs/getting-started)
 - [`XUnit`](https://xunit.net/#documentation)
