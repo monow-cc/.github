@@ -7,17 +7,14 @@
 - Chefs (Restaurantes) - Em Desenvolvimento
 
 Em breve:
+- Bot de atendimento
 - Ecommerce
 - MiaEconomia (Promoções)
 - Fathin (Nutriocionistas)
 - Agenday (Agendamento)
-- Delivery
-- Atendimento
 - Serviços gerais
 - Idiomas
 - Cozinheiros
-- Construções
-- 3D Custom cars
 
 ## Patrocínio:
 
