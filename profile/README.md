@@ -2,19 +2,18 @@
 
 - Corcel (Sistema de gestão) - [`Concluído`](https://corcel.monow.cc)
 - Renowation (Renovação de casas) - [`Concluído`](https://renowation.be)
-- Feels (Psicólogos) - [`Em desenvolvimento`](https://play.google.com/store/apps/details?id=cc.monow.feels)
 - PartU (Festas) - Em desenvolvimento
-- Chefs (Restaurantes) - Em Desenvolvimento
+- Atendor (Atendimento automatizado) - Em desenvolvimento
 
 Em breve:
-- Bot de atendimento
-- Ecommerce
-- MiaEconomia (Promoções)
-- Fathin (Nutriocionistas)
-- Agenday (Agendamento)
-- Serviços gerais
-- Idiomas
-- Cozinheiros
+- Ecommerce (Monte sua loja online)
+- Chefs (Gerencie seu bar, lancheria ou restaurante)
+- Feels (Sistema para psícologos)
+- MiaEconomia (Encontre as promoções da sua cidade)
+- Fathin (Sistema para nutricionistas)
+- Agenday (Crie agendamentos de forma automatizada)
+- Idiomas (Aprenda idiomas com séries e filmes)
+- Cozinheiros (Cozinhe e fature)
 
 ## Patrocínio:
 
