@@ -6,13 +6,15 @@
 - Atendor (Atendimento automatizado) - Em desenvolvimento
 
 Em breve:
+- MeuA1 (Gerencie certificados digitais em um único lugar)
+- ImpostoFacil (API para cálculo de impostos)
 - Ecommerce (Monte sua loja online)
 - Chefs (Gerencie seu bar, lancheria ou restaurante)
-- Feels (Sistema para psícologos)
+- Feels (Sistema para psicólogos)
 - MiaEconomia (Encontre as promoções da sua cidade)
 - Fathin (Sistema para nutricionistas)
 - Agenday (Crie agendamentos de forma automatizada)
-- Idiomas (Aprenda idiomas com séries e filmes)
+- Level Languages (Aprenda idiomas com séries e filmes)
 - Cozinheiros (Cozinhe e fature)
 
 ## Patrocínio:
