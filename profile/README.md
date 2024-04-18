@@ -6,8 +6,8 @@
 - Atendor (Atendimento automatizado) - Em desenvolvimento
 
 Em breve:
-- MeuA1 (Gerencie certificados digitais em um único lugar)
-- ImpostoFacil (API para cálculo de impostos)
+- Meu A1 (Gerencie certificados digitais em um único lugar)
+- Imposto Fácil (API para cálculo de impostos)
 - Ecommerce (Monte sua loja online)
 - Chefs (Gerencie seu bar, lancheria ou restaurante)
 - Feels (Sistema para psicólogos)
