@@ -1,7 +1,5 @@
 ## Projetos:
 
-- Corcel (Sistema de gestão) - [`Concluído`](https://corcel.monow.cc)
-- Renowation (Renovação de casas) - [`Concluído`](https://renowation.be)
 - PartU (Festas) - Em desenvolvimento
 - Atendor (Atendimento automatizado) - Em desenvolvimento
 
