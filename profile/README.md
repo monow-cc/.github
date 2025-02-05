@@ -17,11 +17,13 @@
 - Level Languages (Aprenda idiomas com séries e filmes)
 - Cozinheiros (Cozinhe e fature)
 
-## Patrocínio:
+## Parceiras:
 
 - [`Pontonet Sistemas`](https://pontonetsistemas.com/)
 - [`Renowation`](https://renowation.be)
+  
 - [`CloudFlare`](https://www.cloudflare.com/pt-br/)
+- [`Contabo`](https://contabo.com/)
 
 ## Links:
 
