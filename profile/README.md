@@ -1,12 +1,12 @@
-## Projetos:
+# Projetos:
 
-# Em desenvolvimento:
+## Em desenvolvimento:
 - Face Mouse (Controle seu celular com seu rosto)
 - Ecommerce (Monte sua loja online)
 - Atendor (Atendimento automatizado)
 - PartU (Gerenciamento de festas)
 
-# Em breve:
+## Em breve:
 - Meu A1 (Gerencie certificados digitais em um único lugar)
 - Imposto Fácil (API para cálculo de impostos)
 - Chefs (Gerencie seu bar, lancheria ou restaurante)
