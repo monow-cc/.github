@@ -1,5 +1,3 @@
-# Projetos:
-
 ## Em desenvolvimento:
 - Face Mouse (Controle seu celular com seu rosto)
 - Ecommerce (Monte sua loja online)
