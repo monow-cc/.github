@@ -31,49 +31,49 @@
 
 ## Tecnologias:
 
-# Design (UI/UX):
+### Design (UI/UX):
 - [`Figma`](https://www.figma.com/)
 
-# Mobile:
+### Mobile:
 - [`React Native`](https://reactnative.dev/docs/getting-started)
 - [`Expo`](https://docs.expo.dev)
 - [`Flutter`](https://flutter.dev/)
 
-# Frontend:
+### Frontend:
 - [`Typescript`](https://www.typescriptlang.org/docs)
 - [`React`](https://reactjs.org/docs/getting-started.html)
 - [`Vite`](https://vitejs.dev)
 - [`Gulp`](https://gulpjs.com/docs/en/getting-started/quick-start)
 
-# Backend:
+### Backend:
 - [`C#`](https://learn.microsoft.com/pt-br/dotnet/csharp)
 - [`NodeJs`](https://nodejs.org/en/docs)
 
-# Testes:
+### Testes:
 - [`Jest`](https://jestjs.io/docs/getting-started)
 - [`XUnit`](https://xunit.net/#documentation)
 
-# Bibliotecas de componentes:
+### Bibliotecas de componentes:
 - [`MUI`](https://mui.com/pt/material-ui/getting-started/overview)
 - [`Primefaces`](https://www.primefaces.org/primereact/setup)
 - [`Shadcn`](https://ui.shadcn.com/)
 
-# Banco de dados:
+### Banco de dados:
 - [`Entity Framework`](https://learn.microsoft.com/en-us/ef/core)
 - [`Prisma`](https://www.prisma.io/docs)
 - [`Firebase`](https://firebase.google.com/docs)
 - [`MySql`](https://dev.mysql.com/doc)
 - [`PostgreSQL`](https://www.postgresql.org/)
 
-# Comunicação realtime:
+### Comunicação realtime:
 - [`SignalR`](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction)
 - [`Socket.io`](https://socket.io/docs/v4)
 
-# Padronizações de códigos:
+### Padronizações de códigos:
 - [`Eslint`](https://eslint.org)
 - [`Prettier`](https://prettier.io)
 
-# Comunicação e organização de tarefas:
+### Comunicação e organização de tarefas:
 - [`Discord`](https://discord.com)
 - [`Medium`](https://medium.com)
 - [`Plane`](https://plane.so)
